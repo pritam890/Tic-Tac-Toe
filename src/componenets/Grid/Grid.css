@@ -1,0 +1,23 @@
+.grid-wrapper{
+    max-width: 500px;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 500px;
+    width: 500px;
+    justify-content: space-between;
+    text-align: center;
+}
+.text-highlight{
+    font-weight: bolder;
+    color: azure;
+}
+.reset{
+    padding: 1rem;
+    color: white;
+    background-color: #28a745;
+    border-radius: 10px;
+    border: none;
+    width: 100%;
+}

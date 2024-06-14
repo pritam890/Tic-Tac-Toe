@@ -1,0 +1,15 @@
+.card{
+    border: solid 1px black;
+    box-sizing: border-box;
+    background-color: #ffc137;
+    height: 120px;
+    width: 120px;
+    display: flex;
+    
+    
+    align-items: center;
+    justify-content: center;
+    flex-basis: 30%;
+    padding: 2rem;
+    border-radius: 10%;
+}
